@@ -1,13 +1,12 @@
 header {
 padding: 30px;
 background: #2664A3;
-background-image: url("https://images.unsplash.com/photo-1557101346-f63dfaf371e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+background-image: url("https://images.unsplash.com/photo-1525973132219-a04334a76080?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
 background-size: cover;
 background-attachment: fixed;
 bakcground-position: center;
 height: 100%;
 }
-
 main {
   display: grid;
   grid-template-areas:
