@@ -1,5 +1,5 @@
 header {
-background: #2664A3;
+background: #3426AE;
 }
 
 main {
@@ -20,6 +20,6 @@ article {
 }
 footer {
   grid-area: footer;
-  background: #3426AE;
+  background: #2664A3;
   color: #fff;
 }
