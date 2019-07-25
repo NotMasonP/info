@@ -6,6 +6,7 @@ background-size: cover;
 background-attachment: fixed;
 bakcground-position: center;
 height: 100%;
+color: #fff;
 }
 main {
   display: grid;
