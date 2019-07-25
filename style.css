@@ -2,6 +2,10 @@ header {
 background: #2664A3;
 }
 
+main {
+  display: grid;
+  grid
+}
 aside {
   background: #26859E;
 }
@@ -11,4 +15,5 @@ article {
 
 footer {
   background: #3426AE;
+  color: #fff;
 }
