@@ -4,7 +4,9 @@ background: #2664A3;
 
 main {
   display: grid;
-  grid
+  grid-template-areas:
+    'aside article article'
+    'aside footer footer'
 }
 aside {
   background: #26859E;
